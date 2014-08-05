@@ -1,0 +1,3 @@
+[submodule "quick-cocos2d-x"]
+	path = quick-cocos2d-x
+	url = https://github.com/chukong/quick-cocos2d-x
