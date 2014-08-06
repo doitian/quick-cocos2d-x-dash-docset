@@ -5,3 +5,4 @@
     git submodule init
     git submodule update
     ./generate.rb
+    open quick-cocos2d-x.docset
